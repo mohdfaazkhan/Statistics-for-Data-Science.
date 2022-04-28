@@ -1,1 +1,1 @@
-Simple Linear Regression - Simple Linear Regression - Example.
+Essential Statistical skills for Data Science.
