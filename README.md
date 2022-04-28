@@ -1,2 +1,1 @@
-# Statistics-for-Data-Science.
-Simple linear regression 
+Simple Linear Regression - Statistics-for-Data-Science.
