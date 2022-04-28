@@ -1,1 +1,1 @@
-Simple Linear Regression - Statistics-for-Data-Science.
+Simple Linear Regression - Simple Linear Regression - Example.
